@@ -1,0 +1,230 @@
+CAPITULO_COM_IMAGEM
+ID
+raiz
+personagens
+Gyomei
+Mihawk
+TEXTO
+Em um dos mares do East Blue, desde criança, Gyomei pensou em sair para o mar e viver uma aventura independente de qual caminho seguisse e agora você fez 18 anos. Se tornou um homem e agora pode sair em busca de sua aventura e viver de forma independente. Enquanto crescia, você conseguiu construir um bote para navegar e agora está pronto para sair ao mar, você se despede das pessoas importantes e parte em busca do seu sonho que é...?
+VARIACOES
+0
+0
+IMAGEM
+********** *******   ********     **      ******** **     ** *******   ********     ******  *******   **     ** **  ******** ********
+/////**/// /**////** /**/////     ****    **////// /**    /**/**////** /**/////     **////**/**////** /**    /**/** **////// /**///// 
+    /**    /**   /** /**         **//**  /**       /**    /**/**   /** /**         **    // /**   /** /**    /**/**/**       /**      
+    /**    /*******  /*******   **  //** /*********/**    /**/*******  /*******   /**       /*******  /**    /**/**/*********/******* 
+    /**    /**///**  /**////   **********////////**/**    /**/**///**  /**////    /**       /**///**  /**    /**/**////////**/**////  
+    /**    /**  //** /**      /**//////**       /**/**    /**/**  //** /**        //**    **/**  //** /**    /**/**       /**/**      
+    /**    /**   //**/********/**     /** ******** //******* /**   //**/********   //****** /**   //**//******* /** ******** /********
+    //     //     // //////// //      // ////////   ///////  //     // ////////     //////  //     //  ///////  // ////////  //////// 
+IMAGEM_FIM
+
+
+CAPITULO
+ID
+pirata
+personagens
+Gyomei
+Mihawk
+TEXTO
+Agora você finalmente agarra seu sonho e parte para ilha mais próxima, seu nome é Shimotsuki. Conhecida por ser uma ilha onde existem vários samurais habilidosos. Está indo para lá com o intuito de aprender a arte da espada? Essa escolha lhe custará 1 energia.
+VARIACOES
+-1
+0
+
+
+CAPITULO
+ID
+espada
+personagens
+Gyomei
+Ray
+TEXTO
+Você acredita que se tornar um espadachim vai ajudar na conquista do seu sonho, então, ao chegar na ilha você vai para o dojo Shimotsuki que é o mais famoso da ilha e seu mestre é um renomado espadachim chamado Mihawk, é rigoroso e não permite preguiça ou indisciplina em seu dojo. Você entra no dojo para falar com mestre e pedir para ser treinado por ele para conquistar seu propósito. Mihawk: Olá jovem. Quer se tornar um espadachim para ser o Rei dos piratas??? Você é ambiscioso. Acha que pode conquistar os mares com a força que tem? Entre, irei lhe ajudar a ser forte. voçê permanece no dojo por 4 meses e faz um amigo chamado Ray, assim como voçê, ele tambem quer ser um pirata e desbravar sua vida no mar e ao longo dos dias de treinamento, vocês decidem que quando o treinamento acabar, farão sua aventura juntos. Antes de partir, Gyomei e Ray decidem fazer um duelo e por em prática tudo que aprenderam nos últimos meses. Ambos se preparam para o duelo e você...?
+VARIACOES
+1
+0
+
+
+CAPITULO
+ID
+avanca
+personagens
+Gyomei
+Ray
+TEXTO
+Você avança com tudo e Ray se prepara pra defender o poderoso ataque, mas é surpreendido pela força do ataque de Gyomei e recebe um golpe parcial da espada de madeira. Ray se recupera rápido e logo contra ataca, por ter avançado com tudo sem importar com se defender, você recebe um golpe em cheio de Ray. Ray perde 3 pontos de energia. Gyomei perde 3 pontos de energia.
+VARIACOES
+-3
+-3
+
+
+CAPITULO
+ID
+punho
+personagens
+Gyomei
+Mihawk
+TEXTO
+Você acredita que seus punhos são o suficiente para alcançar seu objetivo e só deseja passar na ilha por ser a ilha mais próxima e não navegar por muito tempo em um bote pequeno. É bastante perigoso. Voçê descansa em Shimotsuki e parte para seu objetivo principal, a ilha chamada Onigashima. A ilha é um lar para piratas e lá voçê planeja recrutar companheiros poderosos para lhe acompanhar em sua jornada. Ao avistar a ilha, você...?"
+VARIACOES
+0
+0
+
+
+CAPITULO
+ID
+espera
+personagens
+Gyomei
+Mihawk
+TEXTO
+Você espera o movimento de Ray que vem com muita cautela e ao se aproximarem o suficiente, começam uma trocação entre as espadas de madeiras, ambos atacam e defendem simultaneamente, vocês riem enquanto lutam e depois de deferirem muitos golpes, os dois estão ofegantes e com um sorriso no rosto. Gyomei: Você esta ótimo, Ray!!! Ray: Digo o mesmo, Gyomei!!!. Ambos perdem 2 pontos de energia.
+VARIACOES
+-2
+-2
+
+
+CAPITULO
+ID
+onigashima
+personagens
+Gyomei
+Ray
+TEXTO
+Chegando em Onigashima, você logo percebe que a ilha é um lar de piratas. Crimes e mortes são coisas comuns na ilha e você entende que tem que tomar cuidado com isso. Ao atracar seu bote no porto, você escuta pescadores falando de um certo caçador de piratas que foi preso por um pirata que ele tentou matar. Então você decide ir ao resgate desse caçador para fazê-lo ter uma dívida com você e consequentemente, você o fará ser seu primeiro tripulante.
+VARIACOES
+0
+0
+
+
+CAPITULO
+ID
+marinha
+personagens
+Gyomei
+Ray
+TEXTO
+Agora você finalmente agarra seu sonho e parte para ilha mais próxima, seu nome é Shimotsuki. Conhecida por ser uma ilha onde existem vários samurais habilidosos. Está indo para lá com o intuito de aprender a arte da espada? Essa escolha lhe custará 1 energia.
+VARIACOES
+-1
+0
+
+
+CAPITULO
+ID
+espadam
+personagens
+Gyomei
+Ray
+TEXTO
+Você acredita que se tornar um espadachim vai ajudar na conquista do seu sonho, então, ao chegar na ilha você vai para o dojo Shimotsuki que é o mais famoso da ilha e seu mestre é um renomado espadachim chamado Mihawk, que é extremamente rigoroso e não permite preguiça ou indisciplina em seu dojo. Você entra no dojo para falar com mestre e pedir para ser treinado por ele para conquistar seu propósito. Mihawk: Olá jovem. Quer se tornar um espadachim para ser um Almirante??? Você é ambiscioso. Quando se alistar na marinha, vai receber o treinamento adequado para proteger os mares. Entre, irei lhe mostrar o básico. Acabando o treino, Você parte para Shells Town. É uma ilha conhecida por ter um forte base da marinha e lá você irá se alistar e enfim se tornar um marinheiro. Ao chegar na ilha você...?
+VARIACOES
+0
+0
+
+
+CAPITULO
+ID
+punhom
+personagens
+Gyomei
+Ray
+TEXTO
+Você acredita que seus punhos são o suficiente para alcançar seu objetivo e só deseja passar na ilha por ser a ilha mais próxima e não navegar por muito tempo em um bote pequeno. É bastante perigoso. Voçê descansa em Shimotsuki e parte para seu objetivo principal, a ilha chamada Shells Town. A ilha é conhecida por ter uma forte base da marinha e lá você vai se alistar e enfim se tornar um marinheiro. Depois de algum tempo navegando, você chega na ilha e...?
+VARIACOES
+0
+0
+
+
+ESCOLHA
+DE
+raiz
+PARA
+pirata
+TEXTO DIGITADO
+Ser o Rei dos Piratas
+TEXTO MOSTRADO
+Ser o Rei dos Piratas
+
+ESCOLHA
+DE
+raiz
+PARA
+marinha
+TEXTO DIGITADO
+Ser um Almirante da Marinha
+TEXTO MOSTRADO
+Ser um Almirante da Marinha
+
+ESCOLHA
+DE
+pirata
+PARA
+espada
+TEXTO DIGITADO
+Sim
+TEXTO MOSTRADO
+Sim
+
+ESCOLHA
+DE
+pirata
+PARA
+espada
+TEXTO DIGITADO
+Negativo
+TEXTO MOSTRADO
+Negativo
+
+ESCOLHA
+DE
+espada
+PARA
+avanca
+TEXTO DIGITADO
+Dispara
+TEXTO MOSTRADO
+Dispara
+
+ESCOLHA
+DE
+espada
+PARA
+espera
+TEXTO DIGITADO
+espera
+TEXTO MOSTRADO
+Espera
+
+ESCOLHA
+DE
+punho
+PARA
+onigashima
+TEXTO DIGITADO
+atraca
+TEXTO MOSTRADO
+Atraca
+
+ESCOLHA
+DE
+marinha
+PARA
+espadam
+TEXTO DIGITADO
+Sim
+TEXTO MOSTRADO
+Sim
+
+ESCOLHA
+DE
+marinha
+PARA
+punhom
+TEXTO DIGITADO
+Negativo
+TEXTO MOSTRADO
+Negativo
+

@@ -1,0 +1,15 @@
+Nome:
+Gyomei
+Energia:
+10
+
+Nome:
+Mihawk
+Energia:
+10
+
+Nome:
+Ray
+Energia:
+10
+
