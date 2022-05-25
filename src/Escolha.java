@@ -9,14 +9,23 @@ public class Escolha {
     this.proximo = proximo;
   }
 
+  /**
+   * @return TextoDigitado
+   */
   public String getTextoDigitado() {
     return this.TextoDigitado;
   }
 
+  /**
+   * @return TextoMostrado
+   */
   public String getTextoMostrado() {
     return this.TextoMostrado;
   }
 
+  /**
+   * @return proximo
+   */
   public Capitulo getproximo() {
     return this.proximo;
   }
